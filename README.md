@@ -2,7 +2,6 @@
 Assortment of PowerShell scripts I use to make development more streamlined.
 
 ## how to run
-WARNING: Always check scripts you get online before running them.
 
 1. In environment variables:
     - add this repository to PATH
