@@ -9,6 +9,7 @@ WARNING: Always check scripts you get online before running them.
     - add .ps1 to PATHEXT
 1. open powershell as admin
 1. unblock files
-    - ``` Get-Children <repositoryPath> | Unblock-File ```
+    - ```Get-Children <repositoryPath> | Unblock-File```
 1. Run desired script through powershell
-    - ``` & <scriptName> ```
+    - ```& <scriptName>```
+    - ```& testScript```
